@@ -1,9 +1,9 @@
-# Portfolio-RenderCube
+# Portfolio
 
 Projekt 2 Jira 
 
 Jest to projekt organizowany przez grupe programistow ktorej celem jest wzajemna nauka i pomoc.
-Ogolnie o projekcie to  na backendzie jest C# z ASP.NET, do niego mamy bazê danych SQL wykorzystujemy entity framework i podejœcie code first. 
+Ogolnie o projekcie to  na backendzie jest C# z ASP.NET, do niego mamy bazÄ™ danych SQL wykorzystujemy entity framework i podejÅ›cie code first. 
 Backend to w zasadzie serwisy REST API. Projekt ogarniamy na Jirze w technice Kanban, kod utrzymujemy na githubie i wrzucamy na serwer testowy.
 
 
@@ -11,14 +11,14 @@ Backend to w zasadzie serwisy REST API. Projekt ogarniamy na Jirze w technice Ka
 
 Projekt Tajemnice Cintry
 
-Jest to gra na silniku Ultimy Online. Wszyscy zaangazowani w projekt pracowali jako wolontariat zgodnie z podejsciem "OD fanów dla fanów".  
-Na tym serverze wykonywa³am drobne rzeczy z regu³y wzoruj¹c sie na juz powsta³ym kodzie.  Przyk³adowo, zmiany w umiejetnosciach graczy, Nowa ksiaga magów. 
-Nowe skrzynki, Nowi NPC , zmiany w systemie górnictwa itd.
+Jest to gra na silniku Ultimy Online. Wszyscy zaangazowani w projekt pracowali jako wolontariat zgodnie z podejsciem "OD fanÃ³w dla fanÃ³w".  
+Na tym serverze wykonywaÅ‚am drobne rzeczy z reguÅ‚y wzorujÄ…c sie na juz powstaÅ‚ym kodzie.  PrzykÅ‚adowo, zmiany w umiejetnosciach graczy, Nowa ksiaga magÃ³w. 
+Nowe skrzynki, Nowi NPC , zmiany w systemie gÃ³rnictwa itd.
 
 
 Zadania od Mentora
 
-Od 1,5 roku jestem pod opieka mentora z firmy Revoogo-Academy. z którym regularnie w kazda niedziele spotykam sie na zajêciach.
-Oto jedno z zadañ zleconych mi na zajêciach. 
+Od 1,5 roku jestem pod opieka mentora z firmy Revoogo-Academy. z ktÃ³rym regularnie w kazda niedziele spotykam sie na zajÄ™ciach.
+Oto jedno z zadaÅ„ zleconych mi na zajÄ™ciach. 
 
 
